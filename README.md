@@ -14,7 +14,7 @@ According to a vertical bar chart, office supplies are the most sold item, outpa
 3. Profit Analysis by Category and Order Date: This line chart illustrates how profitability has evolved from January 2014 through late 2017. Overall, we've seen consistent growth, with notable peaks in profit, particularly from mid-2016 onward. These patterns likely reflect successful sales initiatives or expanding market reach during that time.
 
   
-# Insights for Your Analysis: Our dashboard features interactive filters by category, so you can easily explore specific segments in detail. By combining spatial and temporal data, we offer a comprehensive view of how business performance varies over time and across locations.
+### Insights for Your Analysis: Our dashboard features interactive filters by category, so you can easily explore specific segments in detail. By combining spatial and temporal data, we offer a comprehensive view of how business performance varies over time and across locations.
 
 # Power BI Desktop Visualization Repository:
 
