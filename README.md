@@ -20,4 +20,4 @@ According to a vertical bar chart, office supplies are the most sold item, outpa
 
 You can view the complete project viz in the link below :
 
-https://app.powerbi.com/links/YVHuZ6nVyD?ctid=70de1992-07c6-480f-a318-a1afcba03983&pbi_source=linkShare
+https://app.powerbi.com/groups/me/reports/963d6463-1afb-4185-86b5-a3165a1b8937/ReportSection3bab2b6def7a6b2f170f?ctid=70de1992-07c6-480f-a318-a1afcba03983&experience=power-bi
