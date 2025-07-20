@@ -11,7 +11,7 @@ The heat map shows the distribution of customers by postal code across the Unite
 2. Quantity of Sales by Category:
 According to a vertical bar chart, office supplies are the most sold item, outpacing both furniture and Technology by a significant margin. This suggests that office supplies are high-frequency, high-volume items in the product mix.
 
-3. Profit Analysis by Category and Order Date: This line chart illustrates how profitability has evolved from January 2014 through late 2017. Overall, we've seen consistent growth, with notable peaks in profit, particularly from mid-2016 onward. These patterns likely reflect successful sales initiatives or expanding market reach during that time.
+3. Profit Analysis by Category and Order Date: This line chart or time series illustrates how profitability has evolved from January 2014 through late 2017. Overall, we've seen consistent growth, with notable peaks in profit, particularly from mid-2016 onward. These patterns likely reflect successful sales initiatives or expanding market reach during that time.
 
   
 #### Analytical Insights : Our dashboard features interactive filters by category, so you can easily explore specific segments in detail. By combining spatial and temporal data, we offer a comprehensive view of how business performance varies over time and across locations.This visualization really showcases advanced proficiency in Power BI, especially in combining geospatial analytics, time-series trend analysis, and category segmentation . This visualization reflects business acumen, data storytelling, and technical skill—ideal for roles in business analysis, data science, or sales analytics.
