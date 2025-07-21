@@ -1,4 +1,4 @@
-# From Data to Decisions : Interactive-Sales-Performance-Power-BI-Dashboard
+# From Data to Decisions : Sales-Performance-Power-BI-Dashboard
 
 A sales performance dashboard is displayed in this Power BI visualization. With important metrics on geographic distribution, sales volume, and profitability over time, the dashboard offers a thorough overview of sales data broken down by product categories: technology, office supplies, and furniture.
 
